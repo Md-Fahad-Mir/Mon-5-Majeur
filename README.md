@@ -88,8 +88,8 @@ MON5MAJEUR/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/MON5MAJEUR.git
-   cd MON5MAJEUR
+   git clone https://git@github.com:Md-Fahad-Mir/Mon-5-Majeur.git
+   cd Mon-5-Majeur
    ```
 
 2. **Create environment file**
