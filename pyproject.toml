@@ -1,0 +1,37 @@
+[project]
+name = "mon5majeur"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=25.9.0",
+    "dj-rest-auth[with-social]>=7.0.1",
+    "channels>=4.3.1",
+    "dj-rest-auth[with-social]>=7.0.1",
+    "django>=5.2.6",
+    "django-allauth[socialaccount]>=65.12.0",
+    "django-filter>=25.2",
+    "django-otp[mail]>=1.6.1",
+    "djangorestframework>=3.16.1",
+    "djangorestframework-simplejwt[blacklist]>=5.5.1",
+    "djoser>=2.3.3",
+    "drf-yasg>=1.21.10",
+    "isort>=6.0.1",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "channels-redis>=4.3.0",
+    "uvicorn[standard]>=0.40.0",
+    "whitenoise>=6.11.0",
+    "gunicorn>=23.0.0",
+    "boto3>=1.42.19",
+    "django-storages>=1.14.6",
+    "psycopg2-binary>=2.9.11",
+    "pillow>=12.0.0",
+    "django-cors-headers>=4.9.0",
+    "daphne>=4.1.2",
+    "celery>=5.4.0",
+    "redis>=5.0.0",
+    "django-celery-beat>=2.6.0",
+    "sentry-sdk[django]>=2.50.0",
+]
